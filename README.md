@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ayesha
 
-I build full stack applications using React, Node.js, Express, MongoDB, and Firebase.
+I build MERN stack applications using React, Node.js, Express, MongoDB, and Firebase.
 This GitHub profile is my **learning diary** - a place where I learn, apply, and create through real projects.
 
 
